@@ -1,0 +1,5 @@
+zxc=input("як тебе звати?")
+print("првіт,",zxc)
+dem=int(input("ведіть свій вік:"))
+print("твій вік:",dem)
+print(dem+1)

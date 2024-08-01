@@ -1,0 +1,11 @@
+name=["oleg","wana","sana"]
+print(name)
+name. append("rosik")
+print(name)
+print(len(name))
+name.sort()
+print(name)
+name.extend(["kiril","artem","dana"])
+print(name)
+name.remove("dana")
+print(name)
